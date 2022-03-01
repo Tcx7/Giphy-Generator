@@ -1,0 +1,44 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+.body-content {
+  width: 100%;
+  height: 100%;
+
+  /* display: flex;
+  justify-content: center; */
+}
+
+#title-content {
+  height: 20%;
+  /* position: relative; */
+  /* left: 50%; */
+  margin: 0% 20%;
+}
+#gif-content {
+  display: flex;
+  height: 80%;
+  flex-wrap: wrap;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  height: 17%;
+}
+
+.giphyImg {
+  width: 25%;
+  height: 50%;
+}
+.giphyImgOff {
+  width: 25%;
+  height: 50%;
+}
